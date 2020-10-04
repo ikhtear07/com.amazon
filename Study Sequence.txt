@@ -1,6 +1,6 @@
 1) Project Opening JIra
-2) GitHUB Configuration
-3) Citrix utility
+2) GitHUB Configuration-Continuous
+3) Citrix utility- done
 4) SQL
 5) Java
 6) TESTNG

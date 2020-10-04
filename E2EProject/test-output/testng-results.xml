@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="4" failed="0" ignored="0" total="4" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="216" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="216" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+      <class name="TestCases.HomePageNavigationBarValidationTest">
+        <test-method status="FAIL" signature="InitiateDriverAndSite()[pri:0, instance:TestCases.HomePageNavigationBarValidationTest@6b09fb41]" name="InitiateDriverAndSite" is-config="true" duration-ms="1" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageNavigationBarValidationTest.InitiateDriverAndSite(HomePageNavigationBarValidationTest.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriverAndSite -->
+        <test-method status="SKIP" signature="basePageNavigation()[pri:0, instance:TestCases.HomePageNavigationBarValidationTest@6b09fb41]" name="basePageNavigation" duration-ms="0" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageNavigationBarValidationTest.InitiateDriverAndSite(HomePageNavigationBarValidationTest.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="SKIP" signature="browserClose()[pri:0, instance:TestCases.HomePageNavigationBarValidationTest@6b09fb41]" name="browserClose" is-config="true" duration-ms="-1599607292617" started-at="2020-09-08T19:21:32 EDT" finished-at="1969-12-31T19:00:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- TestCases.HomePageNavigationBarValidationTest -->
+      <class name="TestCases.HomePageImplemantationTest">
+        <test-method status="FAIL" signature="InitiateDriverAndSite()[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="InitiateDriverAndSite" is-config="true" duration-ms="6" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageImplemantationTest.InitiateDriverAndSite(HomePageImplemantationTest.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriverAndSite -->
+        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="basePageNavigation" duration-ms="0" started-at="2020-09-08T19:21:32 EDT" data-provider="getData" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageImplemantationTest.InitiateDriverAndSite(HomePageImplemantationTest.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="SKIP" signature="browserClose()[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="browserClose" is-config="true" duration-ms="-1599607292510" started-at="2020-09-08T19:21:32 EDT" finished-at="1969-12-31T19:00:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="SKIP" signature="InitiateDriverAndSite()[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="InitiateDriverAndSite" is-config="true" duration-ms="-1599607292516" started-at="2020-09-08T19:21:32 EDT" finished-at="1969-12-31T19:00:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriverAndSite -->
+        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="basePageNavigation" duration-ms="0" started-at="2020-09-08T19:21:32 EDT" data-provider="getData" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageImplemantationTest.InitiateDriverAndSite(HomePageImplemantationTest.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="SKIP" signature="browserClose()[pri:0, instance:TestCases.HomePageImplemantationTest@4b520ea8]" name="browserClose" is-config="true" duration-ms="-1599607292531" started-at="2020-09-08T19:21:32 EDT" finished-at="1969-12-31T19:00:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- TestCases.HomePageImplemantationTest -->
+      <class name="TestCases.HomePageTextValidationTest">
+        <test-method status="FAIL" signature="InitiateDriverAndSite()[pri:0, instance:TestCases.HomePageTextValidationTest@16150369]" name="InitiateDriverAndSite" is-config="true" duration-ms="1" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageTextValidationTest.InitiateDriverAndSite(HomePageTextValidationTest.java:26)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitiateDriverAndSite -->
+        <test-method status="SKIP" signature="basePageNavigation()[pri:0, instance:TestCases.HomePageTextValidationTest@16150369]" name="basePageNavigation" duration-ms="0" started-at="2020-09-08T19:21:32 EDT" finished-at="2020-09-08T19:21:32 EDT">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at Resources.Base.initializeDriver(Base.java:41)
+at TestCases.HomePageTextValidationTest.InitiateDriverAndSite(HomePageTextValidationTest.java:26)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:364)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:318)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="SKIP" signature="browserClose()[pri:0, instance:TestCases.HomePageTextValidationTest@16150369]" name="browserClose" is-config="true" duration-ms="-1599607292585" started-at="2020-09-08T19:21:32 EDT" finished-at="1969-12-31T19:00:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- TestCases.HomePageTextValidationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
