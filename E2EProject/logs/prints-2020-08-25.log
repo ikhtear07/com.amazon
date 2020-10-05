@@ -1,0 +1,7 @@
+23:27:30.173 [main] INFO  Resources.Base - site intiatated
+23:27:30.173 [main] ERROR Resources.Base - Site could not be found
+23:27:32.596 [main] INFO  Resources.Base - Pop up window is closed
+23:27:32.650 [main] INFO  Resources.Base - The title matched with the expected result
+23:27:32.650 [main] ERROR Resources.Base - Title did not match with expected result
+23:27:54.334 [main] INFO  Resources.Base - Browser strated successfully
+23:27:54.334 [main] ERROR Resources.Base - Browser could not be started

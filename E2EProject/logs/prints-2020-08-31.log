@@ -1,0 +1,6 @@
+22:34:13.862 [TestNG-tests-1] ERROR Resources.Base - Site could not be found
+22:34:20.429 [TestNG-tests-1] INFO  Resources.Base - Pop up window is closed
+22:34:20.744 [TestNG-tests-1] INFO  Resources.Base - The title matched with the expected result
+22:34:20.745 [TestNG-tests-1] ERROR Resources.Base - Title did not match with expected result
+22:34:41.241 [TestNG-tests-1] INFO  Resources.Base - Browser strated successfully
+22:34:41.241 [TestNG-tests-1] ERROR Resources.Base - Browser could not be started

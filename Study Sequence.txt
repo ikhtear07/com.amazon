@@ -1,0 +1,31 @@
+1) Project Opening JIra
+2) GitHUB Configuration-Continuous
+3) Citrix utility- done
+4) SQL
+5) Java
+6) TESTNG
+7) Selenium
+8) Framework --> Page object+ Cucumber+ Data Driven
+9) Extent REport
+10) Log4J report
+11) Mail REport
+12) Jenkins
+13) Jmeter/Load Runner
+14) Rest API
+
+
+Data Base:
+
+1) Data Base
+2) SQL
+3) Infirmetica
+4) Citrix
+5) PL/SQL
+6) Linux Command
+
+
+2 hour pratice:
+5 Mintes--> Github
+30 Mintes--> SQL
+40 Minutes--> Automation/Java + Selenium + TestNG
+30 Minutes--> Interview Prep

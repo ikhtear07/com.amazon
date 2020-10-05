@@ -1,0 +1,7 @@
+19:55:08.904 [TestNG-tests-1] ERROR Resources.Base - Title did not match with expected result
+19:55:21.298 [TestNG-tests-1] INFO  Resources.Base - Browser strated successfully
+19:55:21.298 [TestNG-tests-1] ERROR Resources.Base - Browser could not be started
+19:55:31.377 [TestNG-tests-1] INFO  Resources.Base - site intiatated
+19:55:31.377 [TestNG-tests-1] ERROR Resources.Base - Site could not be found
+19:55:37.398 [TestNG-tests-1] INFO  Resources.Base - Pop up window is closed
+19:55:37.707 [TestNG-tests-1] INFO  Resources.Base - The navigation bar is dispalyed
