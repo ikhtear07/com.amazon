@@ -1,5 +1,0 @@
-19:19:21.361 [TestNG-tests-1] INFO  Resources.Base - site intiatated
-19:19:21.366 [TestNG-tests-1] ERROR Resources.Base - Site could not be found
-19:19:27.349 [TestNG-tests-1] INFO  Resources.Base - Pop up window is closed
-19:19:27.432 [TestNG-tests-1] INFO  Resources.Base - The navigation bar is dispalyed
-19:19:27.432 [TestNG-tests-1] ERROR Resources.Base - The navigation bar is not visible
